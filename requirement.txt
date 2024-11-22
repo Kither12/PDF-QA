@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+langchain
+langchain-cohere
+langchain-qdrant
+pymupdf4llm
+streamlit
