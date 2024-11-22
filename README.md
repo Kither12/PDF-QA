@@ -2,6 +2,8 @@
 
 PDF-QA is a question-answering application that allows users to upload PDF documents and query them using natural language. The application leverages language models and vector databases to retrieve and answer questions based on the content of the uploaded PDFs.
 
+**Link demo**: [demo](https://pdf-app-anm2gjckkrhgyxy4fgutcu.streamlit.app/)
+
 ## Features
 
 - Upload multiple PDF files.
